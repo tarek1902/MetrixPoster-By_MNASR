@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# wget -qO - https://github.com/emilnabil/download-plugins/raw/refs/heads/main/MetrixPoster-By_MNASR/installer.sh | /bin/sh
+# wget -qO - https://github.com/tarek1902/raw/refs/heads/main/MetrixPoster-By_MNASR/installer.sh | /bin/sh
 
 PLUGIN_NAME="MetrixPoster"
 USERNAME="emilnabil"
@@ -41,7 +41,7 @@ is_pkg_installed() {
 }
 
 echo "===================================================="
-echo "         $PLUGIN_NAME INSTALLER UTILITY            "
+echo "         $PLUGIN_NAME INSTALLER tarek1902            "
 echo "===================================================="
 
 log "[INFO] Checking system compatibility..."
