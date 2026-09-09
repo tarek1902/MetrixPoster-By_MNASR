@@ -3,8 +3,7 @@
 # wget -qO - https://github.com/tarek1902/raw/refs/heads/main/MetrixPoster-By_MNASR/installer.sh | /bin/sh
 
 PLUGIN_NAME="MetrixPoster"
-USERNAME="emilnabil"
-REPO="download-plugins"
+USERNAME="tarek1902"
 SUBPATH="MetrixPoster-By_MNASR"
 ARCHIVE_FILE="MetrixPoster-By_MNASR.tar.gz"
 
